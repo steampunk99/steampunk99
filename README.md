@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Bonnie⚡️
+### Hi👋
 <br>
 <div>
   <a href="https://github.com/lukwiya23">
