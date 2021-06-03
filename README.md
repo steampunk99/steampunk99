@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Bonnie⚡️
 <br>
 <div>
-  <a href="https://github.com/sbrunomello">
+  <a href="https://github.com/lukwiya23">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lukwiya23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukwiya23&exclude_repo=analise-facial&layout=compact&langs_count=16&theme=tokyonight"/>
  
