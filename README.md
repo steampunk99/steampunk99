@@ -15,7 +15,7 @@
 </div>
 <br>
   
-[Snake animation](https://github.com/lukwiya23/lukwiya23/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/lukwiya23/lukwiya23/blob/master/github-contribution-grid-snake.svg)
   
 <br>
  <a href = "mailto: luk23bonnie8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
