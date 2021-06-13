@@ -1,7 +1,7 @@
 ### Hi👋
 Bonnie here,<br>
-I'm a freelance software engineer .. <br>
-Here's my current stack.
+I freelance, play alot of COD & Apex Legends, watch alot of anime and nap😴 .. <br>
+Here's my current stack..
 <br>
 <div>
   <a href="https://github.com/lukwiya23">
