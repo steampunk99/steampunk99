@@ -1,4 +1,7 @@
 ### Hi👋
+Bonnie here,
+I'm currently a freelance software engineer ..
+Here's my current stack.
 <br>
 <div>
   <a href="https://github.com/lukwiya23">
