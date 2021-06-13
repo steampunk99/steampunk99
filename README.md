@@ -1,6 +1,6 @@
 ### Hi👋
 Bonnie here,<br>
-I'm currently a freelance software engineer .. <br>
+I'm a freelance software engineer .. <br>
 Here's my current stack.
 <br>
 <div>
