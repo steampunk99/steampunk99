@@ -1,18 +1,9 @@
 ### Hi👋
 Bonnie here,<br>
 I freelance, play alot of COD & Apex Legends, watch alot of anime and nap😴 .. <br>
-Here's my current stack..
-<br>
-<div>
 
-<div>
-<div style="display: inline_block; margin-bottom: 20px;"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<br>
+
 <br>
   
 ![Snake animation](https://github.com/lukwiya23/lukwiya23/blob/master/github-contribution-grid-snake.svg)
