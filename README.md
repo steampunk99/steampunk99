@@ -4,10 +4,7 @@ I freelance, play alot of COD & Apex Legends, watch alot of anime and nap😴 ..
 Here's my current stack..
 <br>
 <div>
-  <a href="https://github.com/lukwiya23">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lukwiya23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukwiya23&exclude_repo=analise-facial&layout=compact&langs_count=16&theme=tokyonight"/>
- 
+
 <div>
 <div style="display: inline_block; margin-bottom: 20px;"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
