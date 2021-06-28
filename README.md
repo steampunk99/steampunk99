@@ -1,6 +1,6 @@
 ### Hi👋
 Bonnie here,<br>
-I freelance, play alot of COD & Apex Legends, watch alot of anime and nap😴 .. <br>
+I freelance, play alot of COD & Apex Legends.. <br>
 
 <br>
 
