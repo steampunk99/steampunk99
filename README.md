@@ -1,8 +1,41 @@
 ### Hi👋
 Bonnie here,<br>
-I freelance, play alot of COD & Apex Legends.. <br>
 
 <br>
+
+<br>
+
+```js
+export default () => ({
+  websiteUrl: "https://portfolio-66ksp6ho9-lukwiya23.vercel.app/)",
+  askMeAbout: [
+    "Web-Dev", "DS/ML",
+    "Cybersecurity"
+  ],
+  technologies: {
+    "Programming languages": [ "Javascript","Python", "Dart",],
+    "webdev": [ "HTML", "CSS", "Tailwind CSS", "Next JS","ReactJS","Material-UI","GREENSOCK" ],
+    "appdev": [ "Flutter" ],
+    "databases": [ "MySQl", "MongoDB" ,"Firebase"],
+  
+    "devOpsTools": [ "Git" ],
+    "cloudOps": [ "AWS" ],
+    "operatingSystems": [ "Ubuntu", "Kali Linux", "Windows" ],
+
+  },
+  
+   Interests: [
+    "Technology", "Astro Physics", "Sleeping",
+    "Anime", "Lofi Music" 
+  ]
+});
+```
+
+<br>
+
+### 🌱 I’m currently learning Ethereum Blockchain
+
+### 📧 Reach me: **luk23bonnie8@gmail.com**
 
 <br>
 
