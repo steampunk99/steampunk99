@@ -21,8 +21,7 @@ export default () => ({
   
     "devOpsTools": [ "Git" ],
     "cloudOps": [ "AWS" ],
-    "operatingSystems": [ "Ubuntu", "Kali Linux", "Windows" ],
-
+   
   },
   
    Interests: [
