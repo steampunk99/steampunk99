@@ -1,5 +1,6 @@
 ### Hi👋
 Bonnie here,<br>
+I'm a Frontend Developer.👨🏾‍💻
 
 <br>
 
@@ -33,7 +34,7 @@ export default () => ({
 
 <br>
 
-### 🌱 I’m currently learning Ethereum Blockchain
+### 🌱 Currently learning Ethereum Blockchain⚡️
 
 ### 📧 Reach me: **luk23bonnie8@gmail.com**
 
