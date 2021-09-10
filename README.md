@@ -34,7 +34,7 @@ export default () => ({
 
 <br>
 
-### 🌱 Currently learning Ethereum Blockchain⚡️
+### 🌱 Somewhere learning to deploy Nodes on the Ethereum Blockchain⚡️
 
 ### 📧 Reach me: **luk23bonnie8@gmail.com**
 
