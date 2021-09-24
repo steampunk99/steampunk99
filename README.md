@@ -15,7 +15,7 @@ export default () => ({
   ],
   technologies: {
     "Programming languages": [ "Javascript","Python", "Dart",],
-    "webdev": [ "HTML", "CSS", "Tailwind CSS", "Next JS","ReactJS","Redux","Node JS" "Material-UI","GREENSOCK" ],
+    "webdev": [ "HTML", "CSS", "Tailwind CSS", "Next JS","ReactJS","Redux","Node JS", "Apollo GraphQL" "Material-UI","GREENSOCK" ],
     "appdev": [ "Flutter" ],
     "databases": [ "MySQl", "MongoDB" ,"Firebase","Postgresql"],
   
