@@ -8,7 +8,7 @@ I'm a Frontend Developer.👨🏾‍💻
 
 ```js
 export default () => ({
-  websiteUrl: https://portfolio-66ksp6ho9-lukwiya23.vercel.app
+  
   askMeAbout: [
     "Frontend Development",
     "Astro Physics"
