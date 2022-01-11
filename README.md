@@ -11,18 +11,24 @@ export default () => ({
   
   askMeAbout: [
     "Frontend Development",
-    "Astro Physics"
+    
   ],
-  technologies: {
-    "Programming languages": [ "Javascript","Python", "Dart",],
-    "webdev": [ "HTML", "CSS", "Tailwind CSS", "Next JS","ReactJS","Redux","Node JS", "Apollo GraphQL" "Material-UI","GREENSOCK" ],
-    "appdev": [ "Flutter" ],
-    "databases": [ "MySQl", "MongoDB" ,"Firebase","Postgresql"],
-  
-    "devOpsTools": [ "Git" ],
-    "cloudOps": [ "AWS" ],
-   
-  },
+ dev:{
+      frontEnd:{
+        languages: ['HTML', 'CSS', 'Javascript', 'Typescript'],
+        frameworks: ['React.js', 'Next.js'],
+        libraries: ['Bootstrap', 'Material-UI']
+      },
+      backEnd:{
+        languages: ['Javascript', 'Typescript', 'Python'],
+        frameworks: ['Expressjs', 'Nestjs', 'FastApi', 'Flask']
+      },
+      database: ['PostgreSQL', 'MongoDB & Mongoose', 'SQLite'],
+      testing: ['Mocha & Chai', 'Jest '],
+      versionControl: ['Git'],
+      projectMgt: ['Pivotal Tracker', 'Jira'],
+      misc: ['Heroku', 'GNU_Linux']
+    },
   
    Interests: [
     "Technology", "Astro Physics", "Sleeping",
