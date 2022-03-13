@@ -1,6 +1,6 @@
 ### Hi👋
 Bonnie here,<br>
-I'm a Frontend Developer.👨🏾‍💻
+I'm a Blockchain & Frontend Developer.👨🏾‍💻
 
 <br>
 
@@ -10,28 +10,32 @@ I'm a Frontend Developer.👨🏾‍💻
 export default () => ({
   
   askMeAbout: [
-    "Frontend Development",
+    "Blockchain & Frontend Development",
     
   ],
  dev:{
       frontEnd:{
-        languages: ['HTML', 'CSS', 'Javascript', 'Typescript'],
+        languages: ['HTML', 'CSS', 'Javascript'],
         frameworks: ['React.js', 'Next.js'],
-        libraries: ['Bootstrap', 'Material-UI']
+        libraries: ['Tailwindcss', 'Bootstrap', 'Material-UI']
       },
-      backEnd:{
-        languages: ['Javascript', 'Typescript', 'Python'],
-        frameworks: ['Expressjs', 'Nestjs', 'FastApi', 'Flask']
+      
+      blockchain:{
+        languages: ['Solidity',],
+        frameworks: ['ether.js', 'web3.js'],
+        platforms:['Polygon', 'Avalanche', 'Ethereum mainnnet'
       },
-      database: ['PostgreSQL', 'MongoDB & Mongoose', 'SQLite'],
+  
       testing: ['Mocha & Chai', 'Jest '],
+      
       versionControl: ['Git'],
+      
       projectMgt: ['Pivotal Tracker', 'Jira'],
       misc: ['Heroku', 'GNU_Linux']
     },
   
    Interests: [
-    "Technology", "Astro Physics", "Sleeping",
+    "Technology", "Astro Physics",
     "Anime", "Lofi Music" 
   ]
 });
