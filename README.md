@@ -17,7 +17,6 @@ export default () => ({
       frontEnd:{
         languages: ['HTML', 'CSS', 'Javascript'],
         frameworks: ['React.js', 'Next.js'],
-        libraries: ['Tailwindcss', 'Bootstrap', 'Material-UI']
       },
       
       blockchain:{
@@ -31,7 +30,6 @@ export default () => ({
       versionControl: ['Git'],
       
       projectMgt: ['Pivotal Tracker', 'Jira'],
-      misc: ['Heroku', 'GNU_Linux']
     },
   
    Interests: [
