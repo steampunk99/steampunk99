@@ -1,6 +1,3 @@
-### Hi👋
-Bonnie here,<br>
-I'm a Blockchain & Frontend Developer.👨🏾‍💻
 
 <br>
 
@@ -10,12 +7,11 @@ I'm a Blockchain & Frontend Developer.👨🏾‍💻
 export default () => ({
   
   askMeAbout: [
-    "Blockchain & Frontend Development",
+    "Blockchain Developer(Ethereum)",
     
   ],
  dev:{
       frontEnd:{
-        languages: ['HTML', 'CSS', 'Javascript'],
         frameworks: ['React.js', 'Next.js'],
       },
       
@@ -27,14 +23,11 @@ export default () => ({
   
       testing: ['Mocha & Chai', 'Jest '],
       
-      versionControl: ['Git'],
-      
       projectMgt: ['Pivotal Tracker', 'Jira'],
     },
   
    Interests: [
     "Technology", "Astro Physics",
-    "Anime", "Lofi Music" 
   ]
 });
 ```
@@ -42,7 +35,7 @@ export default () => ({
 <br>
 
 
-### 📧 Reach me: **luk23bonnie8@gmail.com**
+### 📧Email: **luk23bonnie8@gmail.com**
 
 <br>
 
