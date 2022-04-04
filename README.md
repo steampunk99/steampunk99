@@ -6,7 +6,7 @@
 ```js
 export default () => ({
   
-  askMeAbout: [
+  About: [
     "Blockchain Developer(Ethereum)",
     
   ],
