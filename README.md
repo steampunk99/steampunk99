@@ -13,6 +13,7 @@ export default () => ({
  dev:{
       fullStack:{
         frameworks: ['React.js', 'Next.js','Laravel','Express.js'],
+        languages: ['Typescript']
       },
       
       blockchain:{
