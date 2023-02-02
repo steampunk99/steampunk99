@@ -7,28 +7,24 @@
 export default () => ({
   
   About: [
-    "Blockchain Developer(Ethereum)",
+    "Blockchain /Fullstack Developer",
     
   ],
  dev:{
-      frontEnd:{
-        frameworks: ['React.js', 'Next.js'],
+      fullStack:{
+        frameworks: ['React.js', 'Next.js','Laravel','Express.js'],
       },
       
       blockchain:{
-        languages: ['Solidity',],
-        frameworks: ['ether.js', 'web3.js'],
-        platforms:['Polygon', 'Avalanche', 'Ethereum mainnnet'
+        languages: ['Solidity','Golang',],
+        frameworks: ['ether.js', 'web3.js','IgniteCli','Cosmos sdk'],
+        platforms:['Binance smart chain','Polygon', 'Avalanche', 'Ethereum mainnnet']
       },
   
-      testing: ['Mocha & Chai', 'Jest '],
+      testing: ['Mocha & Chai', 'Jest'],
       
       projectMgt: ['Pivotal Tracker', 'Jira'],
     },
-  
-   Interests: [
-    "Technology", "Astro Physics",
-  ]
 });
 ```
 
