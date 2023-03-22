@@ -12,7 +12,7 @@ export default () => ({
   ],
  dev:{
       fullStack:{
-        frameworks: ['React.js', 'Next.js','Laravel','Express.js'],
+        frameworks: ['React.js', 'Next.js','Express.js'],
         languages: ['Typescript']
       },
       
