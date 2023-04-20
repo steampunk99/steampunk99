@@ -27,6 +27,8 @@ export default () => ({
       projectMgt: ['Pivotal Tracker', 'Jira'],
     },
 });
+
+<img src="https://github.com/steampunk99/lukwiya23/blob/master/github-contribution-grid-snake.svg" width="128"/>
 ```
 
 <br>
