@@ -29,8 +29,6 @@ export default () => ({
 });
 
 ```
-
-<br>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
