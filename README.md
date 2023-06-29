@@ -2,33 +2,32 @@
 <br>
 
 <br>
-
-```js
-export default () => ({
-  
-  About: [
-    "Blockchain /Fullstack Developer",
-    
-  ],
- dev:{
-      fullStack:{
-        frameworks: ['React.js', 'Next.js','Express.js'],
-        languages: ['Typescript']
-      },
-      
-      blockchain:{
-        languages: ['Solidity','Golang',],
-        frameworks: ['ether.js', 'web3.js','IgniteCli','Cosmos sdk'],
-        platforms:['Binance smart chain','Polygon', 'Avalanche', 'Ethereum mainnnet']
-      },
-  
-      testing: ['Mocha & Chai', 'Jest'],
-      
-      projectMgt: ['Pivotal Tracker', 'Jira'],
-    },
-});
-
 ```
+func main() {
+	dev := Developer{
+		About: "Blockchain / Fullstack Developer",
+		Dev: DevSkills{
+			FullStack: FullStackSkills{
+				Frameworks: []string{"React.js", "Next.js", "Express.js"},
+				Languages:  []string{"Typescript"},
+			},
+			Blockchain: BlockchainSkills{
+				Languages:  []string{"Solidity", "Golang"},
+				Frameworks: []string{"ether.js", "web3.js", "IgniteCli", "Cosmos sdk"},
+				Platforms:  []string{"Binance smart chain", "Polygon", "Avalanche", "Ethereum mainnet"},
+			},
+			Testing:   []string{"Mocha & Chai", "Jest"},
+			ProjectMgt: []string{"Pivotal Tracker", "Jira"},
+		},
+	}
+
+	fmt.Println(dev)
+}
+```
+In the provided Go code, I've created the equivalent Go structs to represent the JavaScript object structure. Then, I initialized the dev variable with the corresponding data. Finally, I printed the dev variable to the console for demonstration purposes.
+
+Please note that the above code is a basic example that converts the data structure from JavaScript to Go. Depending on your specific use case, you may need to modify the code to match your requirements.
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
