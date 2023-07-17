@@ -5,10 +5,10 @@ func main() {
         Web-Dev: WebDevSkills{
             FullStack: FullStackSkills{
                 Frameworks: []string{"React.js", "Next.js", "Express.js"},
-                Languages:  []string{"Typescript"},
+                Languages:  []string{"Typescript", "Javascript"},
             },
             Blockchain: BlockchainSkills{
-                Languages:  []string{"Solidity", "Golang"},
+                Languages:  []string{"Solidity", "Golang","Javascript"},
                 Frameworks: []string{"ether.js", "web3.js", "IgniteCli", "Cosmos sdk"},
                 Platforms:  []string{"Binance smart chain", "Polygon", "Avalanche", "Ethereum mainnet"},
             },
