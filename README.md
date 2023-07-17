@@ -2,7 +2,7 @@
 func main() {
     dev := Developer{
         About: "Blockchain / Fullstack Developer",
-        Dev: DevSkills{
+        Web-Dev: WebDevSkills{
             FullStack: FullStackSkills{
                 Frameworks: []string{"React.js", "Next.js", "Express.js"},
                 Languages:  []string{"Typescript"},
